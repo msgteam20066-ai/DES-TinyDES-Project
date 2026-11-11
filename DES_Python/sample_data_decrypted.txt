@@ -1,0 +1,5 @@
+DEMO DES - TEP VAN BAN
+Noi dung nay duoc su dung de minh hoa ma hoa va giai ma mot tep van ban bang thuat toan DES.
+Chuong trinh doc toan bo tep, chia du lieu thanh cac khoi 8 byte va xu ly tung khoi bang DES.
+Sau khi giai ma, noi dung tep duoc khoi phuc va co the so sanh truc tiep voi tep ban dau.
+    
